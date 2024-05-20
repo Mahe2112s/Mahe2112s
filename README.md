@@ -29,3 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahe2112s&" alt="mahe2112s" /></p>
 
 [![Mahesh's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<21mh1am9ql>)](<[YOUR_LINK_HERE](https://github.com/Mahe2112s)>)
+
+[21mh1am9ql](https://leetcode.card.workers.dev/mahe2112s?theme=auto&font=baloo&extension=null)
