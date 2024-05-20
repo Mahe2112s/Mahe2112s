@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahe2112s&" alt="mahe2112s" /></p>
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<YOUR_USERNAME>)](<[YOUR_LINK_HERE](https://github.com/Mahe2112s)>)
+[![Mahesh's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<21mh1am9ql>)](<[YOUR_LINK_HERE](https://github.com/Mahe2112s)>)
