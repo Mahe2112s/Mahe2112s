@@ -31,3 +31,4 @@
 [![Mahesh's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<21mh1am9ql>)](<[YOUR_LINK_HERE](https://github.com/Mahe2112s)>)
 
 https://leetcode.card.workers.dev/mahe2112s?theme=auto&font=baloo&extension=null
+![LeetCode Stats](https://leetcode.card.workers.dev/mahe2112s?theme=auto&font=baloo&extension=null)
