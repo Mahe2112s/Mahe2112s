@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahe2112s&label=Profile%20views&color=0e75b6&style=flat" alt="mahe2112s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahe2112s" alt="mahe2112s" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript,Salesforce Developer**
 
 - 💬 Ask me about **Salesforce**
@@ -29,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahe2112s&show_icons=true&locale=en" alt="mahe2112s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahe2112s&" alt="mahe2112s" /></p>
-
-[![Mahesh's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<21mh1am9ql>)]([https://github.com/napiyo/geeksForGeeksStatsAPI](https://www.geeksforgeeks.org/user/21mh1am9ql/))
