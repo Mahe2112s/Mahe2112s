@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Salesforce**
 
-- 📫 How to reach me **saimahesh2112s@gmail.com**
+- 📫 How to reach me **mahe2112s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
