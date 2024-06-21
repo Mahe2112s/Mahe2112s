@@ -27,6 +27,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahe2112s&show_icons=true&locale=en" alt="mahe2112s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahe2112s&" alt="mahe2112s" /></p>
+<hr>
+<h3 align="left">GeekforGeeks Stats</h3>
 
 [![Mahesh's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=21mh1am9ql)]((https://www.geeksforgeeks.org/user/21mh1am9ql/))
+
+<hr>
+<h3 align="left">Leetcode Stats</h3>
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/mahe2112s?theme=auto&font=baloo&extension=null)
